@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngoca\\source\\repos\\test01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|c:\\users\\ngoca\\source\\repos\\test01\\test01\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B46356C-0F65-4C81-9317-AC54E1DE16E3}|test01\\test01.vbproj|solutionrelative:test01\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form5.vb",
+              "RelativeDocumentMoniker": "test01\\Form5.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form5.vb",
+              "RelativeToolTip": "test01\\Form5.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:36:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form5.vb",
+              "RelativeDocumentMoniker": "test01\\Form5.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form5.vb [Design]",
+              "RelativeToolTip": "test01\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:36:23.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form3.vb",
+              "RelativeDocumentMoniker": "test01\\Form3.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form3.vb",
+              "RelativeToolTip": "test01\\Form3.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:35:56.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form3.vb",
+              "RelativeDocumentMoniker": "test01\\Form3.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form3.vb [Design]",
+              "RelativeToolTip": "test01\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:35:54.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form2.vb",
+              "RelativeDocumentMoniker": "test01\\Form2.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form2.vb*",
+              "RelativeToolTip": "test01\\Form2.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:33:47.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form2.vb",
+              "RelativeDocumentMoniker": "test01\\Form2.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form2.vb [Design]*",
+              "RelativeToolTip": "test01\\Form2.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:33:43.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form4.vb",
+              "RelativeDocumentMoniker": "test01\\Form4.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form4.vb",
+              "RelativeToolTip": "test01\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:27:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form4.vb",
+              "RelativeDocumentMoniker": "test01\\Form4.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form4.vb [Design]",
+              "RelativeToolTip": "test01\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:27:23.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form1.vb",
+              "RelativeDocumentMoniker": "test01\\Form1.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form1.vb",
+              "RelativeToolTip": "test01\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T13:26:59.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form1.vb",
+              "RelativeDocumentMoniker": "test01\\Form1.vb",
+              "ToolTip": "C:\\Users\\ngoca\\source\\repos\\test01\\test01\\Form1.vb [Design]",
+              "RelativeToolTip": "test01\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-29T07:06:00.537Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
