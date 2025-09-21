@@ -23,6 +23,6 @@ Vì ở dự án này chỉ có Form3, Form4, Form5 mới được kết nối S
 1. Mở file `test01` bằng Visual Studio(không mở file có đuôi .sln được vì cần thay thế thủ công mã nguồn như đã viết ở phần lưu ý)
 2. Kiểm tra chuỗi kết nối SQL trong file cấu hình
 3. Nhấn `Start` để chạy chương trình
-## Tài khoản mẫu (Form1-đăng nhập)
+### Tài khoản mẫu (Form1-đăng nhập)
 - Username: `admin`
 - Password: `12345`
